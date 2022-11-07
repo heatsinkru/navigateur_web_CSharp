@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Navigateur", "Navigateur\Navigateur.csproj", "{FD4FD621-C7C2-4962-9FCF-3E735B24B7A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Navigateur.ViewModel", "Navigateur.ViewModel\Navigateur.ViewModel.csproj", "{F378A282-9640-4A0F-94F6-34502E091AF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD4FD621-C7C2-4962-9FCF-3E735B24B7A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD4FD621-C7C2-4962-9FCF-3E735B24B7A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD4FD621-C7C2-4962-9FCF-3E735B24B7A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD4FD621-C7C2-4962-9FCF-3E735B24B7A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F378A282-9640-4A0F-94F6-34502E091AF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F378A282-9640-4A0F-94F6-34502E091AF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F378A282-9640-4A0F-94F6-34502E091AF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F378A282-9640-4A0F-94F6-34502E091AF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C35FC4FE-87CB-47BA-ADE7-D127CA620BA6}
+	EndGlobalSection
+EndGlobal
